@@ -1,0 +1,420 @@
+.Inicio_form {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.Logo {
+  width: 30vw;
+}
+
+.guias-pt{
+    padding-top: 7rem
+    }
+/* ---------------------- Cabecera -----------------------------------*/
+.resume-navbar{
+    height: 100px;
+    width: 100vw;
+    color:black;
+    font-size: 24px;
+}
+.navbar{
+    height: 100%;
+    height: 15%;
+    width: 100vw;
+    z-index: 1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.navtop{
+    top: 0;
+    transition: top 0.8s;
+}
+
+.navtop-hide{
+    top: -400px;
+    transition: top 0.8s;
+}
+
+
+
+.navbar-collapse{
+    background: #4DB6AC;
+    margin-left: -16px;
+    padding-left: 16px;
+    margin-right: -16px;
+    padding-right: 16px;
+    padding-bottom: 10px;
+}
+
+.navColor{
+    background-color: #4DB6AC;
+}
+
+.navContdrop{
+   background-color: #B2DFDE !important;
+}
+#browser{
+    background-color: white;
+}
+.logo{
+    width: 160px;
+    height: 60px;
+    color :black;
+}
+
+.perfil-img{
+    border-radius: 50%;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px !important;
+}
+/* -------------------------Fin cabecera----------------------------*/
+/* ------------------------------Search-------------------------*/
+.browser-pt{
+padding-top: 7rem
+}
+
+.cont-search{
+    flex-flow: row !important;
+}
+.iconSearch{
+    position: absolute;
+    left: 25px;
+    
+}
+.search{
+    box-shadow: 3px 3px 1px 0px rgba(181,75,85,1);
+    padding-left: 1.75rem !important;
+}
+/*-------------------------------fin search -----------------------*/
+.resume{
+    background-color: #F5F5F6;
+    justify-content: center;
+    text-align: center;
+    
+}
+.resume ul{
+    list-style: none;
+    color: black;
+    margin-top: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-right: 25px;
+}
+.resume a{
+    color: black;
+    text-justify: center;
+    text-align: center;
+}
+.resume .icono{
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-right: 10px;
+    justify-self: center;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+#footer_links{
+    background-color: #4DB6AC;
+    height: 20vh;
+    box-shadow: 2px 0 4px rgba(0, 0, 0, 0.5);
+}
+
+
+.btnClose{
+    background-color: rgba(178, 223, 222, 0.4);
+    color: #B54B55;
+    width: 20%;
+    height: 25px;
+    border-radius: 20px;
+    border-color: rgba(178, 223, 222, 0.4);
+    font-size: 16px;
+    align-content: center;
+}
+.btnClose:hover{
+    background-color:#B54B55 ;
+    color: white; 
+    border-color: #B54B55;
+}
+#hr{
+    background-color: black;
+    border: 0.1px solid black;
+    width: 85%;
+}
+nav a{
+    color: #00857C;
+}
+nav a:hover{
+    color: #00857C;
+}
+.inputs{
+    border: 1px solid #00857C;
+    border-radius: 10px;
+    color: black;
+}
+input #file-upload-button{
+    background-color: rgba(178, 223, 222, 0.4);
+}
+.submit{
+    background-color:#00857C;
+    border: 0.1px solid #00857C;
+    border-radius: 10px;
+    color: white;
+}
+.submit:hover{
+    background-color:#04776f;
+    border: 0.1px solid #00857C;
+    border-radius: 10px;
+    color: white;
+} 
+.btn-primary.disabled, .btn-primary:disabled {
+    color: #fff;
+    background-color: #00857C;
+    border-color: #00857C;
+}		
+.cardGuia{
+    width: 80%;
+}
+.image{
+    width: 100%;
+    height: 180px;
+}
+.cardGuia{
+    width: 100%;
+    padding: 5%;
+    background-color: rgba(76, 139, 181, 0.1);
+}
+.btnCloseImge{
+    position: absolute;
+}
+.btnCloseModalGuia{
+    background-color:rgba(178, 223, 222, 0.6);
+    color: #B54B55;
+    width: 20%;
+    height: 25px;
+    border-radius: 20px;
+    border-color: rgba(178, 223, 222, 0.4);
+    font-size: 16px;
+    align-content: center;
+}
+.border{
+    border-radius: 60px;
+}
+.fac{
+    color:rgba(178, 223, 222, 0.6);
+}
+
+/* ------------------------------cardEventos---------------------------------------*/
+
+.card-event{
+    background-color:#B2DFDE;
+    font-size: 80%;
+}
+
+.card-event-title {
+    font-size: 1rem!important;
+}
+
+.botton-event{
+    text-decoration: none;
+    color: black;
+}
+
+/* ------------------------------fin cardEventos---------------------------------------*/
+
+
+
+.slick-next:before, .slick-prev:before{
+    color:black
+}
+
+.slick-slider{
+    margin-right: 1.2rem;
+    margin-left: 1.2rem;
+}
+
+.border-focus:focus{
+    outline: -webkit-focus-ring-color auto 1px;
+    outline-color: white;
+    outline-style: auto;
+    outline-width: 1px;
+}
+
+
+.error{
+    border: 1px solid #B54B55;
+}
+.spinner{
+    display: none;
+}
+.spinnerOn{
+    display: inline;
+}
+.img-registro{
+    margin-top: 5%;
+    width: 30%;
+    border-radius: 20px;
+    border: 2px solid #00857C;
+}
+
+/*-----------------------------card guia inicio--------------------------------------*/
+
+
+.ColorCarousel-inicio{
+   background-color: #F5F5F6;
+}
+
+.cardGuia-inicio{
+    width: 100%;
+    background-color: transparent;
+    border: transparent;
+}
+.border-img-inicio{
+    border-radius: 7%;
+}
+
+/*----------------------------- fin card municipio inicio--------------------------------------*/
+
+
+/*-----------------------------card municipio inicio--------------------------------------*/
+
+.image-card-muni-inicio{
+    width: 100%;
+    height: 300px;
+    border-radius: 7%;
+    border: 1px solid black;
+}
+
+.cardGuia-inicio-muni{
+    width: 100%;
+    background-color: #F5F5F6;
+    border: #F5F5F6;
+}
+/*-----------------------------fin card municipio inicio--------------------------------------*/
+/* pagina municipios  */ 
+
+.imagen{
+    width: 100%;
+    height: 90%;
+    border: 1px solid black;
+    border-radius: 5%;
+}
+
+.guias{
+    font-size: 28px
+}
+/*-----------------------------card Experiencia inicio--------------------------------------*/
+
+.fondo{
+    background-color: black;
+}
+
+.imagen1{
+    width: 100%;
+    height: 90%;
+    border: 1px solid black;
+    border-radius: 5%;
+}
+.tittleNameG{
+    font-size: 100%
+}
+.registro:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.icono:hover{
+    cursor: pointer;
+}
+.registro2:hover{
+    cursor: pointer;
+}
+.card-event-inicio{
+    background-color:#B2DFDE;
+    font-size: 80%;
+    height: 100%;
+}
+
+.slick-dots{
+    bottom: -46px;
+}
+
+/*---------------------loading------------------------------*/
+.alignLoading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .loader {
+    font-size: 10px;
+    margin: 50px auto;
+    text-indent: -9999em;
+    width: 11em;
+    height: 11em;
+    border-radius: 50%;
+    background: #09aeac;
+    background: -moz-linear-gradient(left, #09aeac 10%, rgba(255, 255, 255, 0) 42%);
+    background: -webkit-linear-gradient(left, #09aeac 10%, rgba(255, 255, 255, 0) 42%);
+    background: -o-linear-gradient(left, #09aeac 10%, rgba(255, 255, 255, 0) 42%);
+    background: -ms-linear-gradient(left, #09aeac 10%, rgba(255, 255, 255, 0) 42%);
+    background: linear-gradient(to right, #09aeac 10%, rgba(255, 255, 255, 0) 42%);
+    position: relative;
+    -webkit-animation: load3 1.4s infinite linear;
+    animation: load3 1.4s infinite linear;
+    -webkit-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+  }
+  .loader:before {
+    width: 50%;
+    height: 50%;
+    background: #09aeac;
+    border-radius: 100% 0 0 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: '';
+  }
+  .loader:after {
+    background: white;
+    width: 75%;
+    height: 75%;
+    border-radius: 50%;
+    content: '';
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+  @-webkit-keyframes load3 {
+    0% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    100% {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes load3 {
+    0% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    100% {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  
+  
+
+
+  /*----------------------fin loading -------------------*/

@@ -1,0 +1,319 @@
+{
+  "guias": [
+    {
+      "guia": {
+        "nameG": "Ana Suarez Suarez",
+        "documentG": "1021345112",
+        "emailG": "ana.suarez@gmail.com",
+        "passwordG": "AnaSu13.",
+        "placeG": "Marinilla",
+        "birthdayG": "1991-02-22",
+        "descriptionG": "Hola! realizo recorridos guiados por el municipio de Marinilla y sus veredas. El recorrido inicia a las 9:00 am y finaliza a las 5:00 pm ",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593225753/turApp/iw8jzv5xdypz8l0horf8.jpg",
+        "showAlert": false
+      },
+      "id": 1
+    },
+    {
+      "guia": {
+        "nameG": "Manuel Turizo",
+        "documentG": "1047036049",
+        "emailG": "Maturizo@gmail.com",
+        "passwordG": "Maturi00",
+        "placeG": "Amaga",
+        "birthdayG": "1992-12-24",
+        "descriptionG": "Hola! Realizo recorridos guiados por el municipio de Amaga y sus veredas",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593225766/turApp/jraghmxtyndbg3abxqzb.jpg"
+      },
+      "id": 2
+    },
+    {
+      "guia": {
+        "nameG": "Paulina Gomez",
+        "documentG": "124596317",
+        "emailG": "pau.gomez@gmail.com",
+        "passwordG": "Pau123..",
+        "placeG": "Belmira",
+        "birthdayG": "1990-06-24",
+        "descriptionG": "Hola! Hago recorridos guiados por Belmira, Antioquia y sus alrededores",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593223064/turApp/yiwavvsagzpgb2xsasli.jpg"
+      },
+      "id": 3
+    },
+    {
+      "guia": {
+        "nameG": "Luciana Ruiz ",
+        "documentG": "103558741",
+        "emailG": "lorenatorog11@gmail.com",
+        "passwordG": "Luruiz12",
+        "placeG": "Jardín",
+        "birthdayG": "1996-10-10",
+        "descriptionG": "Hola! Realizo recorridos por los atractivos turísticos de Jardín ",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593481046/turApp/ognwcyccn0d8grgwemou.jpg"
+      },
+      "id": 4
+    },
+    {
+      "guia": {
+        "nameG": "Santiago Restrepo",
+        "documentG": "1032458966",
+        "emailG": "SantiRestre@gmail.com",
+        "passwordG": "Santi123",
+        "placeG": "Guatapé",
+        "birthdayG": "1992-12-02",
+        "descriptionG": "Hola! Realizo recorridos en diferentes idiomas por el municipio. ",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593456964/turApp/dxvnys2aqudqziusuhuo.jpg"
+      },
+      "id": 5
+    },
+    {
+      "guia": {
+        "nameG": "Santiago Quiroz",
+        "documentG": "43425465",
+        "emailG": "SantiQ@gmail.com",
+        "passwordG": "Santi12.",
+        "placeG": "Guarne",
+        "birthdayG": "1987-02-20",
+        "descriptionG": "Hola! Realizo recorridos por los charcos de Guarne todos los domingos",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593481140/turApp/lsobildezlbm8stmbjes.jpg"
+      },
+      "id": 6
+    },
+    {
+      "guia": {
+        "nameG": "Manuela Gallego",
+        "documentG": "1365896541",
+        "emailG": "manu.galle@gmail.com",
+        "passwordG": "ManuGa1.",
+        "placeG": "San Rafael",
+        "birthdayG": "1999-09-12",
+        "descriptionG": "Hola! Realizo caminatas a la orilla del río todos los fines de semana.",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593481046/turApp/jtelo73xlyua5s1cusow.jpg"
+      },
+      "id": 7
+    },
+    {
+      "guia": {
+        "nameG": "Isabella Giraldo",
+        "documentG": "11233654789",
+        "emailG": "isa.bella@gmail.com",
+        "passwordG": "IsaBell1",
+        "placeG": "Alejandría",
+        "birthdayG": "2000-10-22",
+        "descriptionG": "Hola! realizo recurridos por los lugares turísticos de mi municipio.",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593481046/turApp/movms6oh0wj6awlumvpc.jpg"
+      },
+      "id": 8
+    },
+    {
+      "guia": {
+        "nameG": "Oscar Peréz",
+        "documentG": "44256987",
+        "emailG": "Oscar.Perez@gmail.com",
+        "passwordG": "OscarP69",
+        "placeG": "Santa Rosa de Osos",
+        "birthdayG": "1990-06-09",
+        "descriptionG": "Hola! Acompáñame a recorrer este hermoso municipio realizando recorridos por los mejores paisajes de Antioquia. ",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593481643/turApp/r2vkhjt0q91keiiazyt6.jpg"
+      },
+      "id": 9
+    },
+    {
+      "guia": {
+        "nameG": "Juan Goméz",
+        "documentG": "46987354",
+        "emailG": "juan.gomez@gmail.com",
+        "passwordG": "JuanGo12",
+        "placeG": "San Jerónimo",
+        "birthdayG": "1990-07-31",
+        "descriptionG": "Hola. Ven y disfruta de este maravilloso lugar de Antioquia",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593481644/turApp/myueydwcxkjcohapuget.jpg"
+      },
+      "id": 10
+    },
+    {
+      "guia": {
+        "nameG": "Alex Giraldo",
+        "documentG": "46789546",
+        "emailG": "Alex.G@gmail.com",
+        "passwordG": "Alex4678",
+        "placeG": "Yolombo",
+        "birthdayG": "1984-12-08",
+        "descriptionG": "Hola. Ven y conoce este bello municipio",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593481642/turApp/xy8mgtsaiw8qioxovxll.jpg"
+      },
+      "id": 11
+    },
+    {
+      "guia": {
+        "nameG": "Jesús Morales",
+        "documentG": "47506675",
+        "emailG": "jesusMorales@gmail.com",
+        "passwordG": "Jesus475",
+        "placeG": "Bolomboló",
+        "birthdayG": "1972-07-22",
+        "descriptionG": "Hola! Recorramos juntos estos bellos paisajes",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593481818/turApp/okl2uucwdqkssjsjojiz.jpg"
+      },
+      "id": 12
+    },
+    {
+      "guia": {
+        "nameG": "Sandra Cardona",
+        "documentG": "147854526",
+        "emailG": "sandra_cardona@gmail.com",
+        "passwordG": "Sandra12",
+        "placeG": "Venecia",
+        "birthdayG": "1978-11-25",
+        "descriptionG": "Hola",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593481046/turApp/k4rxt6nq0szyvpjnewdf.jpg"
+      },
+      "id": 13
+    },
+    {
+      "guia": {
+        "nameG": "Samuel Acevedo Castrillón ",
+        "documentG": "100025489",
+        "emailG": "crespoalzatesamuel@gmail.com",
+        "passwordG": "Samuel20",
+        "placeG": "Guatapé",
+        "birthdayG": "1991-06-30",
+        "descriptionG": "¡Hola! \nRealizo caminatas ecológicas en el municipio de Guatapé, si te interesa realizar estas actividades, puedes contactarme para brindarte mis servicios como guía ",
+        "termsG": true,
+        "photoG": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593571985/turApp/zuraqoiwr5ezuz8fwwhq.jpg"
+      },
+      "id": 14
+    }
+  ],
+  "usuarios": [
+    {
+      "usuario": {
+        "nameU": "Martina Ochoa",
+        "documentU": "1236654987",
+        "emailU": "marti.Ochoa@gmail.com",
+        "passwordU": "Marti15.",
+        "placeU": "Medellín",
+        "birthdayU": "1997-11-15",
+        "termsU": true,
+        "photoU": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593736518/turApp/esvrnwwht9btq5t1qfnx.jpg",
+        "showAlert": false
+      },
+      "id": 1
+    }
+  ],
+  "municipios": [
+    {
+      "id": 1,
+      "nombre": "Jardín",
+      "descripcion": "Jardín es un bellísimo pueblo que es parte del Patrimonio Nacional de Colombia y no te lo puedes perder si estás buscando vacacionar en un sitio cercano a Medellín, pues se halla a tres horas de la ciudad. Puedes llegar allí en autobús directo desde Medellín por 26.000 pesos (8 dólares), el viaje dura unas tres horas.",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593105428/turApp/jard%C3%ADn.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Guatapé",
+      "descripcion": "Guatapé es un preciosísimo balneario natural que se esconde en las montañas de Medellín, Colombia, a 20 minutos de la piedra del Peñol. Puedes llegar a en autobús desde el centro de Medellín desde el terminal de transportes del Norte, la tarifa es de 15.000 pesos por personas y el trayecto dura dos horas.",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593105426/turApp/guatap%C3%A9.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Jericó",
+      "descripcion": "Jericó es un lindo pueblo conocido por ser el lugar de nacimiento de la Santa Madre Laura Montoya y por estar rodeado de bonitos paisajes naturales. Está a dos horas de Medellín en Colombia y se puede llegar a él desde el terminal de Medellín por autobús comprando un pasaje de 25.000 pesos (7 dólares).    ",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593105427/turApp/jeric%C3%B3.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Santa Fe de Antioquia",
+      "descripcion": "Este es uno de los atractivos de Antioquia más visitados. Se halla a 35 minutos de la ciudad de Medellín y es reconocida por ser la antigua capital del departamento. El sitio está rodeado del hermoso río Cauca y de bellas instalaciones coloniales como la Casa Consistorial. Puedes llegar en bus desde la terminal Norte de Medellín, el pasaje cuesta 11.000 pesos y dura 60 minutos.",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593105430/turApp/santafeAntioquia.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "San Rafael",
+      "descripcion": "San Rafael es un hermoso sitio turístico que forma parte de los municipios de Antioquia, a 40 minutos de Santa Fe. Puedes llegar desde el terminal de autobuses de Medellín si compras un pasaje con precio de 15.000 pesos (5 dólares). Si te gustan los ambientes naturales y rústicos como los bosques y las montañas cerca de los pueblos, ve a San Rafael.",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593105429/turApp/sanRafael.jpg"
+    }
+  ],
+  "experiencias": [
+    {
+      "id": 1,
+      "guia": "Ana Suarez",
+      "descripcion": "Excelente, amplio conocimiento de la zona y de los primeros auxilios",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593146957/turApp/experiencia1.jpg"
+    },
+    {
+      "id": 2,
+      "guia": "Manuel Turizo",
+      "descripcion": "Fue una experiencia increible, el guía generó mucha confianza",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593022786/turApp/experiencia2.jpg"
+    }
+  ],
+  "eventos": [
+    {
+      "id": 1,
+      "nombre": "Fiestas de los Zócalo, el Turismo y el embalse",
+      "descripcion": " Guatapé full colors, Festival Regional de la Trova, fondas típicas. Concursos, actividades ambientales, académicas y empresariales.",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593481907/turApp/h5pkoeeeauecrcfgvtm7.png",
+      "lugar": "Guatape",
+      "url": "https://infolocal.comfenalcoantioquia.com/index.php/event/fiestas-de-los-zocalos-el-turismo-y-el-embalse",
+      "fecha": "04-OCT. - 14-OCT. 2019"
+    },
+    {
+      "id": 2,
+      "nombre": "Fiestas Katías en Andes, Antioquia",
+      "descripcion": "Las Fiestas Katías ofrecen a locales y a visitantes gran variedad en actividades lúdicas, artísticas y culturales para el encuentro y goce de la comunidad.",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593494520/turApp/uleckdlej2wxvd5szpqo.png",
+      "lugar": "Andes",
+      "url": "https://www.viajaporcolombia.com/noticias/fiestas-katias-2019-en-andes-antioquia_8451/",
+      "fecha": "29-OCT. - 31-OCT. 2020"
+    },
+    {
+      "id": 3,
+      "nombre": "Festival Nacional de la Música Guasca",
+      "descripcion": "Fiestas tradicionales que se llevan a cabo entre octubre y Noviembre, una semana llena de emoción, cultura, deporte y mucho más!",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593494622/turApp/uzkxxcfqmgbvhfevqdmy.png",
+      "lugar": "Betania",
+      "url": "https://compasurbano.com/eventos/Evento-de-Ciudad/FestivalNacional-de-la-M%C3%BAsica-Guasca/8392",
+      "fecha": "31-OCT. - 06-NOV. 2020"
+    },
+    {
+      "id": 4,
+      "nombre": "Fiestas de los Diablitos",
+      "descripcion": "La Fiesta de los Diablitos es la celebración más antigua de Antioquia. Estas fiestas rememoran el día de descanso o de libertad que tenían los esclavos de la época",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593481773/turApp/dwkamw6rzwjfccp29f9u.png",
+      "lugar": "Santa Fe de Antioquia",
+      "url": "https://infolocal.comfenalcoantioquia.com/index.php/event/fiestas-de-los-diablitos",
+      "fecha": "22-DIC. - 31-DIC. 2019"
+    },
+    {
+      "id": 5,
+      "nombre": "Fiestas de la Simpatía",
+      "descripcion": "Se iniciaron con la primera alcaldía popular y se han convertido en el medio más eficaz para promocionar y dar a conocer las bondades turísticas y culturales del municipio",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593482608/turApp/dqv5knpabzm69yx34vrl.png",
+      "lugar": "Alejandria",
+      "url": "https://compasurbano.com/eventos/Evento-de-Ciudad/Fiestasde-la-Simpat%C3%ADa/8353",
+      "fecha": "03-ENE. - 06-ENE. 2021"
+    },
+    {
+      "id": 6,
+      "nombre": "Festival de Música Religiosa",
+      "descripcion": "Solo superado por el de Popayán, Marinilla tiene este atractivo festival considerado el segundo más importante del país en su género",
+      "imagen": "https://res.cloudinary.com/dnmmsm7iv/image/upload/v1593482378/turApp/kqy7h74fptc9p2ga21je.png",
+      "lugar": "Marinilla",
+      "url": "https://compasurbano.com/eventos/Evento-de-Ciudad/Festivalde-M%C3%BAsica-Religiosa/2301",
+      "fecha": "13-ABR. - 20-ABR. 2021"
+    }
+  ]
+}
