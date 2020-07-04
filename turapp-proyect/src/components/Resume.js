@@ -4,7 +4,6 @@ import { Container, Row, Col } from 'react-bootstrap'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFacebook, faTwitter, faInstagram } from '@fortawesome/free-brands-svg-icons'
 import ModalRegistro from './ModalRegistro'
-import ModalInicioSesion from './ModalInicioSesion'
 import PropTypes from 'prop-types'
 
 export default class Resume extends Component {
@@ -27,7 +26,7 @@ export default class Resume extends Component {
             <ul className="p-0">
               <li><b>TU CUENTA</b></li>
               <li>
-                <div className="registro2 dropdown-item" ><ModalInicioSesion text="Inicia Sesión" /></div></li>
+                <a className="registro2 dropdown-item" href="#btn-Info" >Inicio Sesión</a></li>
               <li>
                 <div className="registro2 dropdown-item" ><ModalRegistro text="Registrate" onUpdate={this.props.onUpdate}/></div></li>
             </ul>
