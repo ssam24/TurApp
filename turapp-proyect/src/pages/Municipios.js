@@ -11,7 +11,7 @@ export default class Municipios extends Component {
   constructor (props) {
     super(props)
     this.state = {
-      url: 'http://localhost:3004/municipios',
+      url: 'https://apifake-turapp.herokuapp.com/municipios',
       municipios: [],
       municipiosFilter: [],
       loading: true

@@ -13,8 +13,8 @@ class NavBar extends Component {
   constructor (props) {
     super(props)
     this.state = {
-      urlG: 'http://localhost:3004/guias',
-      urlU: 'http://localhost:3004/usuarios',
+      urlG: 'https://apifake-turapp.herokuapp.com/guias',
+      urlU: 'https://apifake-turapp.herokuapp.com/usuarios',
       infoG: [],
       infoU: [],
       inicioSesion: false,
@@ -159,8 +159,8 @@ class NavBar extends Component {
   handleLogOut () {
     localStorage.removeItem('datosSesion')
     this.setState({
-      urlG: 'http://localhost:3004/guias',
-      urlU: 'http://localhost:3004/usuarios',
+      urlG: 'https://apifake-turapp.herokuapp.com/guias',
+      urlU: 'https://apifake-turapp.herokuapp.com/usuarios',
       infoG: [],
       infoU: [],
       inicioSesion: false,

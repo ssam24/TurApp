@@ -12,7 +12,7 @@ export default class Eventos extends Component {
   constructor () {
     super()
     this.state = {
-      url: 'http://localhost:3004/eventos',
+      url: 'https://apifake-turapp.herokuapp.com/eventos',
       eventos: [],
       eventosFilter: [],
       loading: true

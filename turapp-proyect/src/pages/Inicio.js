@@ -13,9 +13,9 @@ export default class Inicio extends Component {
   constructor () {
     super()
     this.state = {
-      urlm: 'http://localhost:3004/municipios',
-      urlg: 'http://localhost:3004/guias',
-      urle: 'http://localhost:3004/eventos',
+      urlm: 'https://apifake-turapp.herokuapp.com/municipios',
+      urlg: 'https://apifake-turapp.herokuapp.com/guias',
+      urle: 'https://apifake-turapp.herokuapp.com/eventos',
       municipios: [],
       guias: [],
       eventos: [],

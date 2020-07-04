@@ -7,8 +7,8 @@ export default class ModalContraseña extends Component {
   constructor () {
     super()
     this.state = {
-      urlG: 'http://localhost:3004/guias',
-      urlU: 'http://localhost:3004/usuarios',
+      urlG: 'https://apifake-turapp.herokuapp.com/guias',
+      urlU: 'https://apifake-turapp.herokuapp.com/usuarios',
       infoG: [],
       infoU: [],
       show: false,

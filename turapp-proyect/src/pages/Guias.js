@@ -13,7 +13,7 @@ class Guias extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      url: 'http://localhost:3004/guias',
+      url: 'https://apifake-turapp.herokuapp.com/guias',
       guias: [],
       guiasFilter: [],
       loading: true

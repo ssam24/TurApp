@@ -26,8 +26,8 @@ class RegistroGuia extends Component {
       show: false,
       variant: '',
       respuesta: '',
-      urlG: 'http://localhost:3004/guias',
-      urlU: 'http://localhost:3004/usuarios',
+      urlG: 'https://apifake-turapp.herokuapp.com/guias',
+      urlU: 'https://apifake-turapp.herokuapp.com/usuarios',
       infoG: [],
       infoU: []
     }
@@ -174,7 +174,7 @@ class RegistroGuia extends Component {
     if (!Object.keys(result).length) {
       const guia = noErrors
       this.axiosCancelSource = axios.CancelToken.source()
-      axios.post('http://localhost:3004/guias', { guia }, { cancelToken: this.axiosCancelSource.token })
+      axios.post('https://apifake-turapp.herokuapp.com/guias', { guia }, { cancelToken: this.axiosCancelSource.token })
         .then(res => {
           console.log(res)
           this.setState({

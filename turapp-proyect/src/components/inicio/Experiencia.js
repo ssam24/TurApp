@@ -8,7 +8,7 @@ class Experiencia extends Component {
   constructor() {
     super()
     this.state = {
-      url: 'http://localhost:3004/experiencias',
+      url: 'https://apifake-turapp.herokuapp.com/experiencias',
       experiencias: []
     }
     this.onUpdate = this.onUpdate.bind(this)
