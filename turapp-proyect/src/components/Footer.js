@@ -6,7 +6,7 @@ export default class Footer extends Component {
       <div>
         <Container id="footer_links" className="mw-100 font-weight-bold">
           <Row>
-            <Col className="mt-4 d-flex justify-content-center">
+            <Col className="mt-3 d-flex justify-content-center">
             © 2020 TurApp
             </Col>
           </Row>
