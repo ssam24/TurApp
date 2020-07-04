@@ -181,7 +181,7 @@ class NavBar extends Component {
     }
     const { email, password, showAlert, inicioSesion, datos, tipo } = this.state
     return (
-      <div className="container-navbar">
+      <div className="container-navbar" id="navbar">
         <nav className={`navbar navbar-expand-lg navbar-light navColor position-fixed ${this.state.visible ? 'navtop' : 'navtop-hide'} `} >
           {inicioSesion === true ? <div>
             <Link to="#" className="text-dark" href="#" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i className="fas fa-bars mr-3"></i></Link><div className="navContdrop dropdown-menu " aria-labelledby="dropdown09">
