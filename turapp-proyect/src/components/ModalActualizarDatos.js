@@ -165,7 +165,7 @@ class ModalActualizarDatos extends Component {
     if (!Object.keys(result).length) {
       const guia = noErrors
       this.axiosCancelSource = axios.CancelToken.source()
-      axios.put(`http://localhost:3004/guias/${this.state.id}`, { guia }, { cancelToken: this.axiosCancelSource.token })
+      axios.put(`https://apifake-turapp.herokuapp.com/guias/${this.state.id}`, { guia }, { cancelToken: this.axiosCancelSource.token })
         .then(res => {
           console.log(res)
           this.setState({
