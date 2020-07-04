@@ -27,9 +27,9 @@ export default class Resume extends Component {
             <ul className="p-0">
               <li><b>TU CUENTA</b></li>
               <li>
-                <div className="dropdown-item" ><ModalInicioSesion text="Inicia Sesión" /></div></li>
+                <div className="registro2 dropdown-item" ><ModalInicioSesion text="Inicia Sesión" /></div></li>
               <li>
-                <div className="dropdown-item" ><ModalRegistro text="Registrate" onUpdate={this.props.onUpdate}/></div></li>
+                <div className="registro2 dropdown-item" ><ModalRegistro text="Registrate" onUpdate={this.props.onUpdate}/></div></li>
             </ul>
           </Col>
           <Col className="mt-4 p-0">
